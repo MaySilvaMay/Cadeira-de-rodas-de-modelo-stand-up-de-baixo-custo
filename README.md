@@ -1,0 +1,2 @@
+# Cadeira-de-rodas-de-modelo-stand-up-de-baixo-custo
+Partindo da análise dos preços praticados pelo mercado de cadeira de rodas motorizadas com sistema de elevação, e constatando seu elevado valor, esse projeto busca desenvolver um protótipo de cadeira de rodas modelo stand up que seja acessível a um maior número de pessoas, devido ao seu baixo custo. E, com isso, colaborar com a promoção da autonomia e qualidade de vida dos portadores de deficiência motora, em prol da inclusão social. 
